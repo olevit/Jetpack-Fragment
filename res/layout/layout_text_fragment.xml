@@ -10,5 +10,5 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="App JetpackFragmernt TextFragment"
-        android:textSize="50sp" />
+        android:textSize="35sp" />
 </LinearLayout>
