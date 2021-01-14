@@ -1,0 +1,19 @@
+***
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+
+    //add for import kotlinx.android.synthetic.main.activity_main.*
+    id 'kotlin-android-extensions'
+}
+***
+
+dependencies {
+
+***
+    //add for Android Fragment 1.3.0
+    implementation 'androidx.fragment:fragment-ktx:1.3.0-beta01'
+
+    // add for AndroidX Fragment 1.2.0
+    implementation 'androidx.fragment:fragment-ktx:1.2.0'
+}
